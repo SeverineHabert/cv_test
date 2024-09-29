@@ -25,7 +25,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: brands/linkedin
-    url: [https://www.linkedin.com/](https://www.linkedin.com/in/severinehabert/)
+    url: https://www.linkedin.com/in/severinehabert/
 
 
 education:
